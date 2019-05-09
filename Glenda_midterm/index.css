@@ -1,0 +1,27 @@
+body{
+    margin: 3em;
+    margin-left: 3em;
+    font-family: 'Raleway', sans-serif;
+    background-color: floralwhite;
+}
+
+nav{
+    background-color: saddlebrown;
+    height:1em;
+    margin-top: 1em;
+}
+
+nav a{
+    background-color: floralwhite;
+    margin: 2em;
+    width: 6em;
+    text-align: center;
+}
+
+main{
+    margin-left: 3em;
+    }
+
+h2{
+    color: black;
+}
