@@ -1,26 +1,26 @@
 body{
-    margin: 4px;
-    margin-left: 4px;
+    margin: 4em;
+    margin-left: 4em;
     font-family: 'Raleway', sans-serif;
     background-color: pink;
     color: white
 }
 
 nav{
-    border-width: 1px; 
+    border-width: 4em; 
     border-color: black;
-    margin-top:1px;
+    margin-top:1em;
 }
 
 nav a{
     background-color:white;
-    margin: 6px;
-    width:12;
+    margin: 3em;
+    width:6em;
     text-align: center;
 }
 
 main{
-    margin-left: 4px;
+    margin-left: 4em
     }
 
 h1{
