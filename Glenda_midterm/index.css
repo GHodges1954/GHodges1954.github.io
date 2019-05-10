@@ -1,27 +1,30 @@
 body{
-    margin: 3em;
-    margin-left: 3em;
+    margin: 3px;
+    margin-left: 3px;
     font-family: 'Raleway', sans-serif;
-    background-color: floralwhite;
+    background-color: pink;
+    color: white
 }
 
 nav{
-    background-color: saddlebrown;
-    height:1em;
-    margin-top: 1em;
+    border-width: 1px; 
+    border-color: black;
+    margin-top:1px;
 }
 
 nav a{
-    background-color: floralwhite;
-    margin: 2em;
-    width: 6em;
+    background-color:white;
+    margin: 6px;
+    width:12;
     text-align: center;
 }
 
 main{
-    margin-left: 3em;
+    margin-left: 3px;
     }
 
-h2{
-    color: black;
+h1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
 }
