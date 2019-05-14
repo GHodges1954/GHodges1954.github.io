@@ -2,18 +2,18 @@ body{
     margin: 4em;
     margin-left: 4em;
     font-family: 'Raleway', sans-serif;
-    background-color: pink;
-    color: white
+    background-color: tan;
+    color: saddlebrown
 }
 
 nav{
-    border-width: 4em; 
-    border-color: black;
+    border-width: 1em; 
+    border-color: saddlebrown;
     margin-top:1em;
 }
 
 nav a{
-    background-color:white;
+    background-color:tan;
     margin: 3em;
     width:6em;
     text-align: center;
@@ -24,7 +24,9 @@ main{
     }
 
 h1{
-    border-width: 1px;
-    border-style: solid;
-    border-color: black;
+   border: 1em;
+    border-style:inset;
+    margin:1em;
+    border-color: saddlebrown;
+    text-align: center;
 }
