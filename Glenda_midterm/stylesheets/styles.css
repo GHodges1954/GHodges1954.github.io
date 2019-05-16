@@ -1,0 +1,46 @@
+body{
+    margin-right: 4em;
+    margin-left: 4em;
+    font-family: 'Raleway', sans-serif;
+    background-color: wheat;
+    color:saddlebrown;
+}
+
+header{
+    background-color: wheat;
+    width: 100%;
+    border-style: solid;
+    border-width: .2em;
+}
+
+nav{
+    border-width: 1em; 
+    border-color: tan;
+    margin-top:1em;
+}
+
+nav a{
+    margin: 3em;
+    width:6em;
+    text-align: center;
+    
+}
+
+main{
+    margin-left: 3em
+    }
+h1{
+/*
+   border: .2em;
+    border-style:inset;
+    margin:.2em;
+    border-color:orange;
+*/
+    text-align: left;
+}
+
+/*
+.glenda{
+    color: tan;
+    background-color: tan;
+}*/
