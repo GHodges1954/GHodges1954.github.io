@@ -7,10 +7,11 @@ body{
 }
 
 header{
-    background-color: wheat;
+    background-color: tan;
     width: 100%;
     border-style: solid;
     border-width: .2em;
+   
 }
 
 nav{
@@ -28,6 +29,7 @@ nav a{
 
 main{
     margin-left: 3em
+    margin-right: 3em
     }
 h1{
 /*
