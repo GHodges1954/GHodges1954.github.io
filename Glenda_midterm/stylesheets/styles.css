@@ -4,6 +4,13 @@ body{
     font-family: 'Raleway', sans-serif;
     background-color: wheat;
     color:saddlebrown;
+ 
+}
+
+h1,h2,h3{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
 }
 
 header{
@@ -12,6 +19,7 @@ header{
     height: 100;
     border-style: solid;
     border-width: .2em;
+    ;padding-top: .2em;
    
 }
 
@@ -40,6 +48,15 @@ h1{
     border-color:orange;
 */
     text-align: left;
+}
+
+.imgcontainer{
+    height: 300px;
+    overflow: hidden;
+}
+
+.thisimage{
+    height: 300px;
 }
 
 /*
