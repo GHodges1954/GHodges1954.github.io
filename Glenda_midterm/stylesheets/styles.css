@@ -4,7 +4,6 @@ body{
     font-family: 'Raleway', sans-serif;
     background-color: blanchedalmond;
     color:saddlebrown;
- 
 }
 
 h1,h2,h3{
@@ -39,7 +38,13 @@ nav a{
 main{
     margin-left: 3em
     margin-right: 3em
+
     }
+div{
+    
+   padding-left: 16em
+}
+
 h1{
 /*
    border: .2em;
