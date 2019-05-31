@@ -13,7 +13,7 @@ h1,h2,h3{
 }
 
 header{
-    background-color:tan;
+    background-color:burlywood;
     width: 100%;
     height: 100;
     border-style: solid;
@@ -24,7 +24,7 @@ header{
 
 nav{
     border-width: 1em; 
-    border-color: tan;
+    border-color: dodgerblue;
     margin-top:1em;
 }
 
@@ -40,8 +40,10 @@ main{
     margin-right: 3em
 
     }
-div{
-    
+figure class{
+   ;padding-left: 3em  
+}
+div{  
    ;padding-left: 16em
 }
 
@@ -64,8 +66,8 @@ h1{
     height: 300px;
 }
 
-/*
-.glenda{
-    color: tan;
-    background-color: tan;
-}*/
+  footer {
+      background-color: burlywood;
+      padding: 25px;
+    }
+
