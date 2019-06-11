@@ -15,16 +15,16 @@ h1,h2,h3{
 header{
     background-color:burlywood;
     width: 100%;
-    height: 100;
+    height: 25%;
     border-style: solid;
-    border-width: .2em;
+    border-width: .1em;
     ;padding-top: .2em;
    
 }
 
 nav{
     border-width: 1em; 
-    border-color: dodgerblue;
+    border-color: saddlebrown;
     margin-top:1em;
 }
 
