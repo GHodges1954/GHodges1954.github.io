@@ -21,17 +21,6 @@ header{
     ;padding-top: .2em;
    
 }
-}
-
-button,
-input,
-optgroup,
-select,
-textarea {
-    color: inherit;
-    font: inherit;
-    margin: 0
-}
 
 nav{
     border-width: 1em; 
